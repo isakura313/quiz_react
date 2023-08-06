@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "London", "Paris", "Rome"],
+      "answerKey": 2
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "options": [
+        "Amazon River",
+        "Nile River",
+        "Yangtze River",
+        "Mississippi River"
+      ],
+      "answerKey": 1
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "options": ["Berlin", "London", "Paris", "Moscow"],
+      "answerKey": 3
+    }
+  ]
+}
